@@ -61,7 +61,7 @@ src/images
    * Find more information at: http://www.opencv.org
 
 ## Contributors
-[Joshua Powers](http://powersj.github.io/)
+* [Joshua Powers](http://powersj.github.io/)
   * CS6475 Computational Photography (Summer 2015)
   * Georgia Institute of Technology
 

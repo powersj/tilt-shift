@@ -66,4 +66,4 @@ src/images
   * Georgia Institute of Technology
 
 ## License
-MIT &copy; Joshua Powers
+Apache 2.0 &copy; Joshua Powers
